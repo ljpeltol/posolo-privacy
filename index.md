@@ -78,4 +78,4 @@ If this policy changes, the new version is published at the same address with a 
 
 ## Contact
 
-Posolo is developed by Lauri Peltola. Questions about this policy: [contact email].
+Posolo is developed by Lauri Peltola. Questions about this policy: posolo.app@gmail.com.
