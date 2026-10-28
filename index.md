@@ -4,9 +4,9 @@ title: Posolo privacy policy
 
 # Posolo privacy policy
 
-Effective date: [effective date]
+Effective date: 2026-10-28
 
-This policy describes the Posolo app published on Google Play.
+This policy describes the Posolo app for Android (com.posolo.app), which the developer shares as an installation file.
 
 ## In short
 
@@ -33,8 +33,6 @@ Everything is kept in Posolo's private storage on your phone, which other apps c
 - No analytics, tracking or crash-reporting tools inside the app.
 - No advertising.
 - No internet access: the app does not ask Android for permission to use the network, and it sends nothing to the developer or to anyone else.
-
-If you allow your phone to share usage and diagnostics data with Google, Google Play may give the developer statistics about crashes and app performance (Android vitals). Google collects these under its own terms. They describe where the app went wrong, not what you entered.
 
 ## When your data leaves your phone
 
