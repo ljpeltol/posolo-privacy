@@ -16,7 +16,7 @@ Posolo keeps everything you enter on your phone. It has no account, no analytics
 
 Posolo stores what you enter and the settings you choose:
 
-- Weigh-ins, waist measurements and day notes.
+- Weigh-ins, body measurements and day notes.
 - Medicine doses: the date, time, strength, injection site, whether a dose was skipped, and a note; and which medicine you take, including any medicine you add yourself.
 - Side effects, and your daily answers about appetite, sleep and mood.
 - Non-scale victories: short notes about progress the scale does not show.
